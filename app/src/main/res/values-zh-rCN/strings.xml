@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">阿坤篮球计数器</string>
+    <string name="TeamView2">B 队</string>
+    <string name="TextView1">A 队</string>
+</resources>

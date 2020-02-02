@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Score Indicator</string>
+    <string name="TextView1">Team A</string>
+    <string name="TeamView2">Team B</string>
+    <string name="TextView3">0</string>
+    <string name="TextView4">0</string>
+    <string name="Button1">+1</string>
+    <string name="Button2">+2</string>
+    <string name="Button3" >+3</string>
+    <string name="undo" />
+    <string name="reset" />
+    <string name="name">By：沉默的天空Sky</string>
+</resources>
